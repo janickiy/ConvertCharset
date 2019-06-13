@@ -1,0 +1,6 @@
+/vendor
+/attach
+.idea/*
+.env
+phinx.yml
+/composer.lock
