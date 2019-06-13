@@ -1,0 +1,20 @@
+{
+  "name": "janickiy/ConvertCharset",
+  "description": "Charset class for converting text",
+  "keywords": ["php","class","convert","charset"],
+  "homepage": "https://github.com/janickiy/ConvertCharset",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Yanitsky",
+      "email": "janickiy@mail.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.0"
+  },
+  "autoload": {
+    "psr-0": { "ConvertCharset": "src/" }
+  }
+}
